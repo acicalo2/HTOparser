@@ -1,8 +1,7 @@
 ---
 title: "Cell Hashing HTO count processing"
 author:
-- Lucas Graybuck
-- Richard Green
+- Cicalo
 date: "`r format(Sys.time(), '%Y-%m-%d')`"
 output:
   html_document:
